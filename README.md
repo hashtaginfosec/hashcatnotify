@@ -1,5 +1,7 @@
 # hashcatnotify
  Plays a sound when new hashes are cracked by hashcat 
+
+Big thanks WJDigby for https://github.com/WJDigby/hashms I just modified to it play a sound instead of Slack/SMS notifications. 
  
 **Currently, hashcat.exe as process_name and hack-keyword.wav as sound are hardcoded in the file. **
 
